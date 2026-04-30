@@ -38,8 +38,40 @@ VHDL-Projects-CA-Lab/
 ## 🎯 Purpose
 This repository is created for learning, practice, and academic lab work.
 
-## 👨‍💻 Author
-Rajeev
+# 👨‍💻 Author
+
+<p align="center">
+  <img src="https://github.com/rajectedguy.png" width="120" height="120" style="border-radius:50%;" alt="Raj Ghosh Logo/Profile"/>
+</p>
+
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Raj%20Ghosh-black?style=for-the-badge&logo=github&logoColor=white" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Build%20Create-orange?style=social&logo=github" />
+  <img src="https://img.shields.io/badge/Always-Learning-blue?style=social&logo=googlekeep" />
+  <img src="https://img.shields.io/badge/Open-Source-green?style=social&logo=git" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/rajectedguy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/rajghosh-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/RajectedGuy" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="mailto:rajectedguy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 ## ⭐ Future Updates
 - Flip Flops
