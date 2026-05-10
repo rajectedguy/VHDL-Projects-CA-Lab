@@ -1,0 +1,23 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+entity bcd_to_decimal_decoder is
+    Port (
+        A : in STD_LOGIC_VECTOR(3 downto 0);
+        Y : out STD_LOGIC_VECTOR(9 downto 0)
+    );
+end bcd_to_decimal_decoder;
+
+architecture Behavioral of bcd_to_decimal_decoder is
+begin
+    Y(0) <= (not A(3)) and (not A(2)) and (not A(1)) and (not A(0));
+    Y(1) <= (not A(3)) and (not A(2)) and (not A(1)) and A(0);
+    Y(2) <= (not A(3)) and (not A(2)) and A(1) and (not A(0));
+    Y(3) <= (not A(3)) and (not A(2)) and A(1) and A(0);
+    Y(4) <= (not A(3)) and A(2) and (not A(1)) and (not A(0));
+    Y(5) <= (not A(3)) and A(2) and (not A(1)) and A(0);
+    Y(6) <= (not A(3)) and A(2) and A(1) and (not A(0));
+    Y(7) <= (not A(3)) and A(2) and A(1) and A(0);
+    Y(8) <= A(3) and (not A(2)) and (not A(1)) and (not A(0));
+    Y(9) <= A(3) and (not A(2)) and (not A(1)) and A(0);
+end Behavioral;
